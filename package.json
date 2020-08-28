@@ -1,0 +1,30 @@
+{
+  "name": "memechat",
+  "version": "1.0.0",
+  "description": "a fun chatting webpage for my boiizzz in the comments",
+  "main": "memeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "rhymbil",
+  "license": "ISC",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "express": "*",
+    "socket.io": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomberg5264/maxwell-schat.git"
+  },
+  "keywords": [
+    "npm",
+    "install"
+  ],
+  "bugs": {
+    "url": "https://github.com/gomberg5264/maxwell-schat/issues"
+  },
+  "homepage": "https://github.com/gomberg5264/maxwell-schat#readme",
+  "devDependencies": {}
+}
